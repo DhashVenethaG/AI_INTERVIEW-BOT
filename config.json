@@ -1,0 +1,21 @@
+{
+  "role_name": "AI/ML Intern",
+  "required_intents": ["ai", "ml", "intern", "data"],
+  "questions": [
+    "Can you briefly introduce yourself?",
+    "Why are you interested in this role?",
+    "Tell me about a project you worked on.",
+    "How do you handle challenges or setbacks?",
+    "Do you prefer working alone or in a team?"
+  ],
+  "validations": [
+    { "question": "introduce", "type": "min_words", "value": 5 },
+    { "question": "project", "type": "min_words", "value": 5 }
+  ],
+  "deal_breakers": ["no interest", "don’t know", "not sure"],
+  "scoring_weights": {
+    "communication": 0.4,
+    "role_understanding": 0.3,
+    "technical_fit": 0.3
+  }
+}
