@@ -1,0 +1,29 @@
+{
+    "candidate_name": "Dhash",
+    "role": "AI/ML Intern",
+    "score": 5.2,
+    "verdict": "Review Needed",
+    "responses": [
+        {
+            "Question": "Can you briefly introduce yourself?",
+            "Answer": "I'm dhash venetha g completed B.E in ece domain"
+        },
+        {
+            "Question": "Why are you interested in this role?",
+            "Answer": "Because it will improve my skils"
+        },
+        {
+            "Question": "Tell me about a project you worked on.",
+            "Answer": "Diabetic retinopathy classifier to detect diabetic retinopathy disease"
+        },
+        {
+            "Question": "How do you handle challenges or setbacks?",
+            "Answer": "I handle challenges by staying calm, analyzing the root cause, and breaking the problem into smaller steps."
+        },
+        {
+            "Question": "Do you prefer working alone or in a team?",
+            "Answer": "I\u2019m comfortable working both independently and in a team. When working alone, I stay focused and take ownership of my tasks. But I also enjoy team projects because they bring diverse ideas, collaboration, and faster problem-solving. I believe the best results often come from a balance of both."
+        }
+    ],
+    "timestamp": "2025-09-02T11:42:55.813849"
+}

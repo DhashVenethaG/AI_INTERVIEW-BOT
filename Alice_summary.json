@@ -1,0 +1,29 @@
+{
+    "candidate_name": "Alice",
+    "role": "AI/ML Intern",
+    "score": 5.2,
+    "verdict": "Review Needed",
+    "responses": [
+        {
+            "Question": "Can you briefly introduce yourself?",
+            "Answer": "I\u2019m Alice, I just graduated. I don\u2019t have much to say."
+        },
+        {
+            "Question": "Why are you interested in this role?",
+            "Answer": "I just need a job and some income"
+        },
+        {
+            "Question": "Tell me about a project you worked on.",
+            "Answer": "I haven\u2019t really done any project, just small college assignments."
+        },
+        {
+            "Question": "How do you handle challenges or setbacks?",
+            "Answer": "I usually get frustrated. Sometimes I just stop working and wait for someone to help me."
+        },
+        {
+            "Question": "Do you prefer working alone or in a team?",
+            "Answer": "I prefer working alone because I don\u2019t like depending on others."
+        }
+    ],
+    "timestamp": "2025-09-02T12:00:40.202597"
+}
